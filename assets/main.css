@@ -2,8 +2,25 @@ body {
     background-color: black;
 }
 
+<<<<<<< HEAD
 .header {
     width: 100vw;
     height: 200px;
     background-color: white;
 }
+=======
+.footer {
+    width: 100vw;
+    height: 200px;
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+} 
+>>>>>>> footer
